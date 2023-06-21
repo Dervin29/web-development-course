@@ -130,7 +130,7 @@ h3 {
 .card-container{
   display: grid;
   grid-template-columns: repeat(4,1fr);
-  grid-gap: 15px;
+  grid-gap: 20px;
   justify-items: center;
   margin:0px 150px;
   padding: 20px;
@@ -180,14 +180,12 @@ h3 {
     text-align: center;
   }
 
-
-
-
   .hero-image {
     max-width: 80%;
     margin: 20px auto;
     padding: 50px;
   }
+
 
   h1{
     font-size: 50px;
