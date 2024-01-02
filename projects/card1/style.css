@@ -1,0 +1,30 @@
+:root{
+    --bg: #2C3333;
+    --neutral:#CBE4DE;
+    --text:#2E4F4F;
+    --button:#0E8388;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: var(--bg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 300px;
+}
+.card-container{
+   
+}
+
+.card{
+    border: 10px solid red;
+    background-color: #CBE4DE;
+    padding: 10px;
+    text-align: center;
+}
